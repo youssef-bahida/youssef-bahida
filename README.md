@@ -21,7 +21,7 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-24-blue?style=for-the-badge&logo=java" />
+ <img src="https://img.shields.io/badge/Java-24-blue?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/Python-3.12-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/C-Standard-red?style=for-the-badge&logo=c" />
   <img src="https://img.shields.io/badge/SQL-Database-#003366?style=for-the-badge&logo=mysql" />
