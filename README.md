@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Youssef%20Bahida&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20%7C%20Web%20%7C%20Automation&descAlignY=60&descColor=a8d8ea&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Youssef%20Bahida&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20%7C%20Web%20%7C%20DevOps%20%7C%20AI&descAlignY=60&descColor=a8d8ea&animation=fadeIn"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=🎓+Software+Engineering+Graduate;💻+Python+%7C+Java+%7C+JavaScript+%7C+SQL;📊+Data+Analysis+%7C+ETL+%7C+Machine+Learning;🌐+Full+Stack+Web+Developer;⚙️+DevOps+%7C+Docker+%7C+Linux+%7C+AWS;🔐+Networking+%7C+Security+%7C+Cisco;📋+Microsoft+Office+Automation;🚀+Open+to+Freelance+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=🎓+Software+Engineering+Graduate;💻+Python+%7C+Java+%7C+JavaScript+%7C+PHP+%7C+C;📊+Data+Analysis+%7C+ETL+%7C+Machine+Learning;🌐+Full+Stack+Web+Developer;🖼️+Image+Processing+%7C+Computer+Vision;⚙️+DevOps+%7C+Docker+%7C+Linux+%7C+AWS;🔐+Networking+%7C+Security+%7C+Cisco+%7C+Cryptography;📋+Microsoft+Office+Automation+%7C+VBA;🧠+Machine+Learning+%7C+TensorFlow+%7C+OpenCV;🚀+Open+to+Freelance+Opportunities+on+Upwork)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,24 +21,50 @@
 
 ```python
 class YoussefBahida:
-    name       = "Youssef Bahida"
-    location   = "Fes, Morocco 🇲🇦"
-    education  = "Licence — Software Engineering (Génie Logiciel)"
-    status     = "Entry-Level Freelance Developer | Open to opportunities"
 
-    domains    = [
-        "Data Analysis & ETL",
-        "Web Development (Full Stack)",
-        "Desktop Development",
-        "DevOps & Cloud",
-        "Machine Learning",
-        "Microsoft Office Automation",
-        "Networking & Security",
-        "Scripting & Automation",
+    name      = "Youssef Bahida"
+    location  = "Midelt, Morocco 🇲🇦"
+    education = "Licence — Software Engineering (Génie Logiciel)"
+    status    = "Entry-Level Freelance Developer | Open to opportunities"
+
+    domains = [
+        "Data Analysis & ETL",                # Python, Pandas, SQL, Talend
+        "Web Development (Full Stack)",        # HTML, CSS, JS, React, Laravel, Node.js
+        "Desktop Development",                # Java Swing, JavaFX, C
+        "DevOps & Cloud",                     # Docker, Linux, AWS, CI/CD
+        "Machine Learning & AI",              # Scikit-learn, TensorFlow, NLP
+        "Image Processing & Computer Vision", # OpenCV, Pillow
+        "Microsoft Office Automation",        # Excel, Word, PowerPoint, VBA
+        "Networking & Security",              # Cisco, TCP/IP, Firewalls
+        "Scripting & Automation",             # Python, Bash, Web Scraping
+        "Linux & System Administration",      # Ubuntu, Shell, iptables, cron
+        "Database Design & Administration",   # MySQL, PostgreSQL, MongoDB
+        "Cybersecurity & Cryptography",       # Encryption, Hashing, Protocols
+        "Graph Algorithms & Optimization",    # Dijkstra, BFS/DFS, NetworkX
+        "Presentation & Document Design",     # PowerPoint templates, PPTX automation
     ]
 
-    languages  = ["Python", "Java", "JavaScript", "C", "SQL", "HTML/CSS", "Bash"]
-    goal       = "Build real-world projects. Deliver value. Grow every day."
+    languages = [
+        "Python", "Java", "JavaScript", "TypeScript",
+        "PHP", "C", "C++", "SQL", "HTML5", "CSS3",
+        "Bash", "R", "MATLAB", "Assembly",
+    ]
+
+    frameworks = [
+        "React", "Node.js", "Express.js", "Next.js",       # JS ecosystem
+        "Laravel", "Symfony",                               # PHP
+        "Spring Boot", "JavaFX", "Hibernate",              # Java
+        "Django", "Flask", "FastAPI",                      # Python web
+        "TensorFlow", "Scikit-learn", "OpenCV", "Pandas",  # Data & AI
+    ]
+
+    tools = [
+        "Docker", "Git", "GitHub Actions", "Linux",
+        "AWS", "MySQL", "PostgreSQL", "MongoDB",
+        "Talend ETL", "Jupyter", "VS Code", "Cisco Packet Tracer",
+    ]
+
+    goal = "Master every layer of the stack. Build real solutions. Deliver quality. 🚀"
 
     def say_hi(self):
         print("Thanks for visiting my profile! Let's build something great 🚀")
@@ -52,36 +78,64 @@ class YoussefBahida:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-### 📊 Data & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Talend](https://img.shields.io/badge/Talend_ETL-FF6D70?style=for-the-badge&logo=talend&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🖥️ Desktop Development
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### 📊 Data Analysis & ETL
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend_ETL-FF6D70?style=for-the-badge&logo=talend&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🧠 Machine Learning & AI
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+### 🖼️ Image Processing & Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### ⚙️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -91,6 +145,7 @@ class YoussefBahida:
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Linux Security](https://img.shields.io/badge/Linux_Security-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cryptography](https://img.shields.io/badge/Cryptography-FF6600?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
 ### 📋 Microsoft Office Suite
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -103,18 +158,22 @@ class YoussefBahida:
 
 ## 🌿 Portfolio — Domains & Branches
 
-> 📁 All projects are organized by domain in the [`portfolio`](https://github.com/youssef-bahida/portfolio) repository.
+> 📁 All projects organized by domain → [`portfolio`](https://github.com/youssef-bahida/portfolio)
 
 | Branch | Domain | Projects | Status |
 |--------|--------|:--------:|--------|
-| [`data-analysis`](https://github.com/youssef-bahida/portfolio/tree/data-analysis) | 📊 Data Analysis | 5 | ![In Progress](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
+| [`data-analysis`](https://github.com/youssef-bahida/portfolio/tree/data-analysis) | 📊 Data Analysis & ETL | 5 | ![In Progress](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
 | [`web-development`](https://github.com/youssef-bahida/portfolio/tree/web-development) | 🌐 Web Development | 5 | ![Planned](https://img.shields.io/badge/Planned-lightgrey?style=flat-square) |
 | [`desktop-development`](https://github.com/youssef-bahida/portfolio/tree/desktop-development) | 🖥️ Desktop Development | 5 | ![Planned](https://img.shields.io/badge/Planned-lightgrey?style=flat-square) |
 | [`devops-cloud`](https://github.com/youssef-bahida/portfolio/tree/devops-cloud) | ⚙️ DevOps & Cloud | 5 | ![Planned](https://img.shields.io/badge/Planned-lightgrey?style=flat-square) |
+| [`machine-learning`](https://github.com/youssef-bahida/portfolio/tree/machine-learning) | 🧠 Machine Learning & AI | 5 | ![Planned](https://img.shields.io/badge/Planned-lightgrey?style=flat-square) |
+| [`image-processing`](https://github.com/youssef-bahida/portfolio/tree/image-processing) | 🖼️ Image Processing & CV | 5 | ![Planned](https://img.shields.io/badge/Planned-lightgrey?style=flat-square) |
 | [`microsoft-office-suite`](https://github.com/youssef-bahida/portfolio/tree/microsoft-office-suite) | 📋 Microsoft Office Suite | 5 | ![Planned](https://img.shields.io/badge/Planned-lightgrey?style=flat-square) |
 | [`networking-security`](https://github.com/youssef-bahida/portfolio/tree/networking-security) | 🔐 Networking & Security | 5 | ![Planned](https://img.shields.io/badge/Planned-lightgrey?style=flat-square) |
 | [`scripting-automation`](https://github.com/youssef-bahida/portfolio/tree/scripting-automation) | 🤖 Scripting & Automation | 5 | ![Planned](https://img.shields.io/badge/Planned-lightgrey?style=flat-square) |
-| [`machine-learning`](https://github.com/youssef-bahida/portfolio/tree/machine-learning) | 🧠 Machine Learning | 5 | ![Planned](https://img.shields.io/badge/Planned-lightgrey?style=flat-square) |
+| [`linux-sysadmin`](https://github.com/youssef-bahida/portfolio/tree/linux-sysadmin) | 🐧 Linux & System Admin | 5 | ![Planned](https://img.shields.io/badge/Planned-lightgrey?style=flat-square) |
+| [`database-admin`](https://github.com/youssef-bahida/portfolio/tree/database-admin) | 🗄️ Database Administration | 5 | ![Planned](https://img.shields.io/badge/Planned-lightgrey?style=flat-square) |
+| [`cybersecurity`](https://github.com/youssef-bahida/portfolio/tree/cybersecurity) | 🔑 Cybersecurity & Crypto | 5 | ![Planned](https://img.shields.io/badge/Planned-lightgrey?style=flat-square) |
 
 ---
 
