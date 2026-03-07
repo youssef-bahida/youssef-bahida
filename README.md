@@ -199,8 +199,6 @@ class YoussefBahida:
 
 ## 📬 Let's Connect
 
-## 📬 Let's Connect
-
 <div align="center">
 
 ### 📧 Direct Contact
