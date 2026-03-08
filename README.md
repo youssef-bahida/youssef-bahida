@@ -20,7 +20,7 @@
 ![Coding Time](https://img.shields.io/badge/Coding%20Time-500%20hrs-blue?style=for-the-badge&labelColor=0f172a)
 ![AI Developer](https://img.shields.io/badge/Specialty-AI%20%26%20Data-purple?style=for-the-badge&labelColor=1f2937)
 ![Location](https://img.shields.io/badge/Location-Morocco-red?style=for-the-badge&labelColor=1f2937)
-![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20SQL%20%7C%20AI-green?style=for-the-badge&labelColor=1f2937)
+![Stack](https://img.shields.io/badge/Stack-DATA%20%7C%20AI%20%7C%20DEV-yellow?style=for-the-badge&labelColor=1f2937)
 ![Profile Rank](https://img.shields.io/badge/Rank-A+-brightgreen?style=for-the-badge&labelColor=1f2937)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=youssef-bahida&theme=github-dark)
 
