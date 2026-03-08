@@ -8,10 +8,24 @@
 
 <br/>
 
-<!-- Profile badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=youssef-bahida&style=for-the-badge&color=0e75b6)
-[![GitHub followers](https://img.shields.io/github/followers/youssef-bahida?style=for-the-badge&color=0e75b6)](https://github.com/youssef-bahida)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Freelance-brightgreen?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com)
+### 📊 Profile Stats
+
+
+![Views](https://komarev.com/ghpvc/?username=youssef-bahida&style=for-the-badge&label=VIEWS&labelColor=E5533D&color=F06A4D)
+![Followers](https://img.shields.io/github/followers/youssef-bahida?style=for-the-badge&label=FOLLOWERS&labelColor=1E3A8A&color=3B82F6)
+![Stars](https://img.shields.io/github/stars/youssef-bahida?style=for-the-badge&label=STARS&labelColor=14532D&color=22C55E)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/youssef-bahida&query=$.public_repos&style=for-the-badge&label=REPOS&labelColor=581C87&color=A855F7)
+![Last Commit](https://img.shields.io/github/last-commit/youssef-bahida/youssef-bahida?style=for-the-badge&label=LAST%20COMMIT&labelColor=92400E&color=F59E0B)
+![Pull Requests](https://img.shields.io/github/issues-pr/youssef-bahida/portfolio?style=for-the-badge&label=PRS&labelColor=0F766E&color=14B8A6)
+![Coding Time](https://img.shields.io/badge/Coding%20Time-500%20hrs-blue?style=for-the-badge&labelColor=0f172a)
+![AI Developer](https://img.shields.io/badge/Specialty-AI%20%26%20Data-purple?style=for-the-badge&labelColor=1f2937)
+![Location](https://img.shields.io/badge/Location-Morocco-red?style=for-the-badge&labelColor=1f2937)
+![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20SQL%20%7C%20AI-green?style=for-the-badge&labelColor=1f2937)
+![Profile Rank](https://img.shields.io/badge/Rank-A+-brightgreen?style=for-the-badge&labelColor=1f2937)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=youssef-bahida&theme=github-dark)
+
+</div>
+
 
 </div>
 
