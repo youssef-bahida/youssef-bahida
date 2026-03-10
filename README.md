@@ -190,18 +190,18 @@ class YoussefBahida:
 
 | Branch | Domain | Projects | Status |
 |--------|--------|:--------:|--------|
-| [`data-analysis`](https://github.com/youssef-bahida/portfolio/tree/data-analysis) | 📊 Data Analysis & ETL | 5 | ![In Progress](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
-| [`web-development`](https://github.com/youssef-bahida/portfolio/tree/web-development) | 🌐 Web Development | 5 | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
-| [`desktop-development`](https://github.com/youssef-bahida/portfolio/tree/desktop-development) | 🖥️ Desktop Development | 5 | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
-| [`devops-cloud`](https://github.com/youssef-bahida/portfolio/tree/devops-cloud) | ⚙️ DevOps & Cloud | 5 | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
-| [`machine-learning`](https://github.com/youssef-bahida/portfolio/tree/machine-learning) | 🧠 Machine Learning & AI | 5 | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
-| [`image-processing`](https://github.com/youssef-bahida/portfolio/tree/image-processing) | 🖼️ Image Processing & CV | 5 | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
-| [`microsoft-office-suite`](https://github.com/youssef-bahida/portfolio/tree/microsoft-office-suite) | 📋 Microsoft Office Suite | 5 | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
-| [`networking-security`](https://github.com/youssef-bahida/portfolio/tree/networking-security) | 🔐 Networking & Security | 5 | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
-| [`scripting-automation`](https://github.com/youssef-bahida/portfolio/tree/scripting-automation) | 🤖 Scripting & Automation | 5 | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
-| [`linux-sysadmin`](https://github.com/youssef-bahida/portfolio/tree/linux-sysadmin) | 🐧 Linux & System Admin | 5 | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
-| [`database-admin`](https://github.com/youssef-bahida/portfolio/tree/database-admin) | 🗄️ Database Administration | 5 | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
-| [`cybersecurity`](https://github.com/youssef-bahida/portfolio/tree/cybersecurity) | 🔑 Cybersecurity & Crypto | 5 | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
+| [`data-analysis`](https://github.com/youssef-bahida/portfolio/tree/data-analysis) | 📊 Data Analysis & ETL | ? | ![In Progress](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
+| [`web-development`](https://github.com/youssef-bahida/portfolio/tree/web-development) | 🌐 Web Development | ? | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
+| [`desktop-development`](https://github.com/youssef-bahida/portfolio/tree/desktop-development) | 🖥️ Desktop Development | ? | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
+| [`devops-cloud`](https://github.com/youssef-bahida/portfolio/tree/devops-cloud) | ⚙️ DevOps & Cloud | ? | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
+| [`machine-learning`](https://github.com/youssef-bahida/portfolio/tree/machine-learning) | 🧠 Machine Learning & AI | ? | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
+| [`image-processing`](https://github.com/youssef-bahida/portfolio/tree/image-processing) | 🖼️ Image Processing & CV | ? | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
+| [`microsoft-office-suite`](https://github.com/youssef-bahida/portfolio/tree/microsoft-office-suite) | 📋 Microsoft Office Suite | ? | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
+| [`networking-security`](https://github.com/youssef-bahida/portfolio/tree/networking-security) | 🔐 Networking & Security | ? | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
+| [`scripting-automation`](https://github.com/youssef-bahida/portfolio/tree/scripting-automation) | 🤖 Scripting & Automation | ? | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
+| [`linux-sysadmin`](https://github.com/youssef-bahida/portfolio/tree/linux-sysadmin) | 🐧 Linux & System Admin | ? | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
+| [`database-admin`](https://github.com/youssef-bahida/portfolio/tree/database-admin) | 🗄️ Database Administration | ? | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
+| [`cybersecurity`](https://github.com/youssef-bahida/portfolio/tree/cybersecurity) | 🔑 Cybersecurity & Crypto | ? | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
 
 ---
 
