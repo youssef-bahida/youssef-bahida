@@ -37,8 +37,7 @@
 class YoussefBahida:
 
     name      = "Youssef Bahida"
-    location  = "Midelt, Morocco 🇲🇦"
-    education = "Licence — Software Engineering (Génie Logiciel)"
+    education = "Software Engineering"
     status    = "Entry-Level Freelance Developer | Open to opportunities"
 
     domains = [
