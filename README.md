@@ -26,10 +26,18 @@
 
 </div>
 
-## 📊 My Coding Stats
+## ⏱ Coding Activity
+
+<p align="center">
+<img src="https://img.shields.io/badge/Tracked%20With-WakaTime-7C3AED?style=for-the-badge&logo=wakatime&logoColor=white"/>
+</p>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+## 📊 Stats
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=youssef_bahida&theme=midnight-purple)](https://wakatime.com)
 
 
 </div>
