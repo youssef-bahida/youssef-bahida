@@ -7,6 +7,7 @@ on:
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # Opt into Node.js 24 globally
+  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true #
 
 jobs:
   update-readme:
