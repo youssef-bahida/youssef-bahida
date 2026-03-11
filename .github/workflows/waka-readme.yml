@@ -1,30 +1,21 @@
 name: Update WakaTime README
 
 on:
-  schedule:
-    - cron: '0 * * * *'  # toutes les heures
   workflow_dispatch:
-
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # force Node.js 24
+  schedule:
+    - cron: "0 * * * *"
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - name: Update README with WakaTime Stats
+        uses: anmol098/waka-readme-stats@master
         with:
-          python-version: '3.x'
-
-      - name: Install waka-readme-stats
-        run: pip install waka-readme-stats
-
-      - name: Update WakaTime stats in README
-        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: waka-readme-stats
+          GH_TOKEN: ${{ secrets.GH_PAT }}
