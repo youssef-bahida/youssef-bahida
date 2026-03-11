@@ -29,7 +29,7 @@
 ## ⏱ Coding Activity
 
 <p align="center">
-<img src="https://img.shields.io/badge/Tracked%20With-WakaTime-7C3AED?style=for-the-badge&logo=wakatime&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tracked%20With-TIMER-7C3AED?style=for-the-badge&logoColor=white"/>
 </p>
 
 <!--START_SECTION:waka-->
@@ -102,12 +102,6 @@ Windows                  2 mins              ███████████�
  Last Updated on 11/03/2026 15:41:49 UTC
 <!--END_SECTION:waka-->
 
-## 📊 Stats
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=youssef_bahida&theme=midnight-purple)](https://wakatime.com)
-
-
-</div>
 
 ---
 
