@@ -1,10 +1,13 @@
-name: Waka 
+name: WAKA
 
 on:
   schedule:
-    # runs every day
     - cron: "0 0 * * *"
   workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
 
 jobs:
   update-readme:
@@ -13,10 +16,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Update README with WakaTime stats
-        uses: anmol098/waka-readme-stats@master
+        uses: anmol098/waka-readme-stats@v3
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_OS: "True"
@@ -25,3 +28,4 @@ jobs:
           SHOW_TIMEZONE: "True"
           SHOW_LANGUAGE: "True"
           SHOW_LINES_OF_CODE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
