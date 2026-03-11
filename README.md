@@ -33,6 +33,73 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 89 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 3 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+🌆 Daytime                156 commits         █████████░░░░░░░░░░░░░░░░   34.14 % 
+🌃 Evening                159 commits         █████████░░░░░░░░░░░░░░░░   34.79 % 
+🌙 Night                  90 commits          █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Tuesday                  74 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Wednesday                89 commits          █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Thursday                 30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Friday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Saturday                 94 commits          █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Sunday                   88 commits          █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+Markdown                 2 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  2 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+youssef-bahida           2 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  2 mins              █████████████████████████   100.00 % 
+```
+
+```text
+
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/youssef-bahida/youssef-bahida/main/assets/bar_graph.png)
+
+
+ Last Updated on 11/03/2026 15:41:49 UTC
 <!--END_SECTION:waka-->
 
 ## 📊 Stats
