@@ -269,7 +269,7 @@ class YoussefBahida:
 | [`desktop-development`](https://github.com/youssef-bahida/portfolio/tree/desktop-development) | 🖥️ Desktop Development | ? | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
 | [`devops-cloud`](https://github.com/youssef-bahida/portfolio/tree/devops-cloud) | ⚙️ DevOps & Cloud | ? | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
 | [`machine-learning`](https://github.com/youssef-bahida/portfolio/tree/machine-learning) | 🧠 Machine Learning & AI | ? | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
-| [`image-processing`](https://github.com/youssef-bahida/portfolio/tree/image-processing) | 🖼️ Image Processing & CV | ? | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
+| [`image-processing`](https://github.com/youssef-bahida/portfolio/tree/Image-Processing) | 🖼️ Image Processing & CV | ? | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
 | [`microsoft-office-suite`](https://github.com/youssef-bahida/portfolio/tree/microsoft-office-suite) | 📋 Microsoft Office Suite | ? | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
 | [`networking-security`](https://github.com/youssef-bahida/portfolio/tree/networking-security) | 🔐 Networking & Security | ? | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
 | [`scripting-automation`](https://github.com/youssef-bahida/portfolio/tree/scripting-automation) | 🤖 Scripting & Automation | ? | ![Planned](https://img.shields.io/badge/In_Progress-yellow?style=flat-square) |
