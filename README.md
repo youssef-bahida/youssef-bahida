@@ -13,6 +13,7 @@
 
 ![Views](https://komarev.com/ghpvc/?username=youssef-bahida&style=for-the-badge&label=VIEWS&labelColor=E5533D&color=F06A4D)
 ![Followers](https://img.shields.io/github/followers/youssef-bahida?style=for-the-badge&label=FOLLOWERS&labelColor=1E3A8A&color=3B82F6)
+![Following](https://img.shields.io/github/following/youssef-bahida?style=for-the-badge&label=FOLLOWING&labelColor=1E3A8A&color=3B82F6)
 ![Stars](https://img.shields.io/github/stars/youssef-bahida?style=for-the-badge&label=STARS&labelColor=14532D&color=22C55E)
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/youssef-bahida&query=$.public_repos&style=for-the-badge&label=REPOS&labelColor=581C87&color=A855F7)
 ![Last Commit](https://img.shields.io/github/last-commit/youssef-bahida/youssef-bahida?style=for-the-badge&label=LAST%20COMMIT&labelColor=92400E&color=F59E0B)
