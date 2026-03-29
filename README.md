@@ -34,7 +34,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-53%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
 
@@ -77,16 +77,19 @@ Sunday                   95 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Docker                   25 mins             █████████████████████░░░░   85.48 % 
+Python                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  29 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Master-Degree            29 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  29 mins             █████████████████████████   100.00 % 
 ```
 
 ```text
@@ -100,7 +103,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/youssef-bahida/youssef-bahida/main/assets/bar_graph.png)
 
 
- Last Updated on 29/03/2026 22:33:33 UTC
+ Last Updated on 29/03/2026 23:34:53 UTC
 <!--END_SECTION:waka-->
 
 
