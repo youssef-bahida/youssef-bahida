@@ -34,7 +34,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
@@ -77,19 +77,18 @@ Sunday                   95 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Docker                   25 mins             █████████████████████░░░░   85.48 % 
-Python                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Python                   7 mins              ██████████████░░░░░░░░░░░   54.45 % 
+Docker                   5 mins              ███████████░░░░░░░░░░░░░░   42.21 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Master-Degree            29 mins             █████████████████████████   100.00 % 
+MST-SIDI-2025            14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.00 % 
+Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 ```text
@@ -103,7 +102,7 @@ Windows                  29 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/youssef-bahida/youssef-bahida/main/assets/bar_graph.png)
 
 
- Last Updated on 05/04/2026 22:33:35 UTC
+ Last Updated on 05/04/2026 23:35:57 UTC
 <!--END_SECTION:waka-->
 
 
