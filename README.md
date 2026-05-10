@@ -34,13 +34,13 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2045%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 138.4 kB Used in GitHub's Storage 
  > 
 > 🏆 96 Contributions in the Year 2026
  > 
@@ -53,21 +53,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-🌆 Daytime                164 commits         ████████░░░░░░░░░░░░░░░░░   32.67 % 
-🌃 Evening                159 commits         ████████░░░░░░░░░░░░░░░░░   31.67 % 
-🌙 Night                  112 commits         ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+🌞 Morning                79 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+🌆 Daytime                165 commits         ████████░░░░░░░░░░░░░░░░░   31.98 % 
+🌃 Evening                160 commits         ████████░░░░░░░░░░░░░░░░░   31.01 % 
+🌙 Night                  112 commits         █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Tuesday                  80 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Wednesday                92 commits          █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-Thursday                 45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Friday                   26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-Saturday                 101 commits         █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-Sunday                   95 commits          █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Monday                   63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Tuesday                  80 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Wednesday                105 commits         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+Thursday                 45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Friday                   26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Saturday                 102 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Sunday                   95 commits          █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
 ```
 
 
@@ -77,18 +77,17 @@ Sunday                   95 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   7 mins              ██████████████░░░░░░░░░░░   54.45 % 
-Docker                   5 mins              ███████████░░░░░░░░░░░░░░   42.21 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+JavaScript               7 mins              ████████████████████████░   96.21 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MST-SIDI-2025            14 mins             █████████████████████████   100.00 % 
+Unknown Project          7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 ```text
@@ -102,7 +101,7 @@ Windows                  14 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/youssef-bahida/youssef-bahida/main/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2026 13:14:33 UTC
+ Last Updated on 10/05/2026 18:07:41 UTC
 <!--END_SECTION:waka-->
 
 
