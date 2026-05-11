@@ -77,17 +77,16 @@ Sunday                   95 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               7 mins              ████████████████████████░   96.21 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Python                   0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          7 mins              █████████████████████████   100.00 % 
+youssef                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+WSL                      0 secs              █████████████████████████   100.00 % 
 ```
 
 ```text
@@ -101,7 +100,7 @@ Windows                  7 mins              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/youssef-bahida/youssef-bahida/main/assets/bar_graph.png)
 
 
- Last Updated on 11/05/2026 22:55:39 UTC
+ Last Updated on 11/05/2026 23:59:39 UTC
 <!--END_SECTION:waka-->
 
 
