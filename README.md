@@ -34,6 +34,8 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2026%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -48,6 +50,47 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                79 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+🌆 Daytime                165 commits         ████████░░░░░░░░░░░░░░░░░   31.91 % 
+🌃 Evening                161 commits         ████████░░░░░░░░░░░░░░░░░   31.14 % 
+🌙 Night                  112 commits         █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Tuesday                  80 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Wednesday                105 commits         █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Thursday                 45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Friday                   26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Saturday                 102 commits         █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+Sunday                   95 commits          █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+Python                   2 hrs 20 mins       ██████████████████████░░░   87.35 % 
+CSV                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 41 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+youssef                  2 hrs 41 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+WSL                      2 hrs 41 mins       █████████████████████████   100.00 % 
+```
+
 ```text
 
 ```
@@ -59,7 +102,7 @@
 ![Lines of Code chart](https://raw.githubusercontent.com/youssef-bahida/youssef-bahida/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 22:57:58 UTC
+ Last Updated on 15/05/2026 00:03:40 UTC
 <!--END_SECTION:waka-->
 
 
