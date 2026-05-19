@@ -77,18 +77,18 @@ Sunday                   95 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   2 hrs 20 mins       ██████████████████████░░░   87.35 % 
-CSV                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Python                   2 hrs 20 mins       ██████████████████████░░░   87.32 % 
+CSV                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-youssef                  2 hrs 41 mins       █████████████████████████   100.00 % 
+youssef                  2 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      2 hrs 41 mins       █████████████████████████   100.00 % 
+WSL                      2 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 ```text
@@ -102,7 +102,7 @@ WSL                      2 hrs 41 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/youssef-bahida/youssef-bahida/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2026 22:04:15 UTC
+ Last Updated on 19/05/2026 00:08:16 UTC
 <!--END_SECTION:waka-->
 
 
