@@ -34,7 +34,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -77,17 +77,18 @@ Sunday                   95 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   15 mins             ██████████████████████░░░   86.13 % 
-JavaScript               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Python                   34 mins             ███████████████████████░░   92.97 % 
+JavaScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+VS Code                  36 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-youssef                  18 mins             █████████████████████████   100.00 % 
+youssef                  36 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      18 mins             █████████████████████████   100.00 % 
+WSL                      36 mins             █████████████████████████   100.00 % 
 ```
 
 ```text
@@ -101,7 +102,7 @@ WSL                      18 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/youssef-bahida/youssef-bahida/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2026 22:20:34 UTC
+ Last Updated on 27/05/2026 00:06:11 UTC
 <!--END_SECTION:waka-->
 
 
