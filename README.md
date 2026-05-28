@@ -34,6 +34,8 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2010%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -48,6 +50,48 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                90 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+🌆 Daytime                165 commits         ████████░░░░░░░░░░░░░░░░░   31.25 % 
+🌃 Evening                161 commits         ████████░░░░░░░░░░░░░░░░░   30.49 % 
+🌙 Night                  112 commits         █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Tuesday                  80 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Wednesday                112 commits         █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+Thursday                 49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Friday                   26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Saturday                 102 commits         █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Sunday                   95 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+Python                   1 hr 55 mins        ████████████████████████░   97.51 % 
+JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+
+🔥 Editors: 
+VS Code                  1 hr 58 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+youssef                  1 hr 58 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+WSL                      1 hr 58 mins        █████████████████████████   100.00 % 
+```
+
 ```text
 
 ```
@@ -59,7 +103,7 @@
 ![Lines of Code chart](https://raw.githubusercontent.com/youssef-bahida/youssef-bahida/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 18:41:29 UTC
+ Last Updated on 28/05/2026 21:09:36 UTC
 <!--END_SECTION:waka-->
 
 
