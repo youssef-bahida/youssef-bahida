@@ -77,19 +77,18 @@ Sunday                   95 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   1 hr 55 mins        ████████████████████████░   97.51 % 
-JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Python                   1 hr 53 mins        █████████████████████████   99.61 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  1 hr 58 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 53 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-youssef                  1 hr 58 mins        █████████████████████████   100.00 % 
+youssef                  1 hr 53 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      1 hr 58 mins        █████████████████████████   100.00 % 
+WSL                      1 hr 53 mins        █████████████████████████   100.00 % 
 ```
 
 ```text
@@ -103,7 +102,7 @@ WSL                      1 hr 58 mins        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/youssef-bahida/youssef-bahida/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 23:18:37 UTC
+ Last Updated on 29/05/2026 03:43:08 UTC
 <!--END_SECTION:waka-->
 
 
