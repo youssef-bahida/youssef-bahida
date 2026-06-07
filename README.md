@@ -34,8 +34,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2010%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -100,7 +98,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/youssef-bahida/youssef-bahida/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 21:14:32 UTC
+ Last Updated on 07/06/2026 23:05:48 UTC
 <!--END_SECTION:waka-->
 
 
