@@ -34,8 +34,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2013%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -50,51 +48,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                91 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-🌆 Daytime                169 commits         ████████░░░░░░░░░░░░░░░░░   31.59 % 
-🌃 Evening                163 commits         ████████░░░░░░░░░░░░░░░░░   30.47 % 
-🌙 Night                  112 commits         █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Tuesday                  82 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Wednesday                112 commits         █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-Thursday                 49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Friday                   26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-Saturday                 106 commits         █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Sunday                   95 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 ```text
 
 ```
@@ -106,7 +59,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/youssef-bahida/youssef-bahida/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 15:17:27 UTC
+ Last Updated on 07/08/2026 00:01:29 UTC
 <!--END_SECTION:waka-->
 
 
