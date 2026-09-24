@@ -40,7 +40,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 165.9 kB Used in GitHub's Storage 
+> 📦 167.9 kB Used in GitHub's Storage 
  > 
 > 🏆 40 Contributions in the Year 2026
  > 
@@ -48,7 +48,7 @@
  > 
 > 📜 1 Public Repository 
  > 
-> 🔑 5 Private Repository 
+> 🔑 6 Private Repository 
  > 
 **I'm a Night 🦉** 
 
@@ -95,8 +95,10 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-```text
+**I Mostly Code in Kotlin** 
 
+```text
+Kotlin                   1 repo              █████████████████████████   100.00 % 
 ```
 
 
@@ -106,7 +108,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/youssef-bahida/youssef-bahida/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 13:18:58 UTC
+ Last Updated on 24/09/2026 18:16:33 UTC
 <!--END_SECTION:waka-->
 
 
